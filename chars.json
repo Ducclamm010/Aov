@@ -72,26 +72,6 @@
     "08": {
       "name_skin": "Toro Trâu siêu tốc",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/105_LianPo/105_LianPo_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Toro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/105_LianPo/105_LianPo_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Toro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/105_LianPo/105_LianPo_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Toro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/105_LianPo/105_LianPo_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Toro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/105_LianPo/105_LianPo_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Toro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/105_LianPo/105_LianPo_actorinfo.bytes"
     }
   },
   "106": {
@@ -171,10 +151,6 @@
       "name_skin": "Krixi Thủy thủ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
     },
-    "10": {
-      "name_skin": "Krixi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
-    },
     "11": {
       "name_skin": "Krixi Lốc xoáy kinh hoàng Tatsumaki",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes",
@@ -200,10 +176,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "12": {
-      "name_skin": "Krixi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
-    },
     "13": {
       "name_skin": "Krixi Nàng tiên nổi loạn",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes",
@@ -217,16 +189,8 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "14": {
-      "name_skin": "Krixi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
-    },
     "15": {
       "name_skin": "Krixi Tiểu hồng mai",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Krixi",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
     },
     "17": {
@@ -261,10 +225,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "19": {
-      "name_skin": "Krixi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
     },
     "20": {
       "name_skin": "Krixi Phù thủy thời không",
@@ -303,14 +263,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "22": {
-      "name_skin": "Krixi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Krixi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/106_XiaoQiao/106_XiaoQiao_actorinfo.bytes"
     }
   },
   "107": {
@@ -318,10 +270,6 @@
     "id_name": "107_Zhaoyun",
     "01": {
       "name_skin": "Zephys Oán linh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Zephys",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
     },
     "03": {
@@ -405,10 +353,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ]
     },
-    "10": {
-      "name_skin": "Zephys",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
-    },
     "11": {
       "name_skin": "Zephys Đầu bếp Sashimi",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
@@ -416,31 +360,6 @@
     "12": {
       "name_skin": "Zephys Nghệ nhân đồ chơi",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Zephys 10713",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes",
-      "effect": "Ages/Prefeb_Characters/Prefab_Hero/Actor_107_Actions.pkg.bytes",
-      "aref": "AssetRefs/Hero/107_AssetRef.bytes",
-      "skillmark": "Databin/Client/Skill/skillmark.bytes",
-      "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
-      "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml",
-      "back": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Back.xml",
-      "hastee": [
-        "Ages/Prefab_Characters/Prefab_Hero/mod1/commonresource/HasteE1_leave.xml",
-        "Ages/Prefab_Characters/Prefab_Hero/mod1/commonresource/HasteE1.xml"
-      ],
-      "motion": "Databin/Client/Motion/ResSkinMotionBaseCfg.bytes",
-      "sound": [
-        "Databin/Client/Sound/BattleBank.bytes",
-        "Databin/Client/Sound/HeroSound.bytes"
-      ],
-      "sound2": [
-        "Databin/Client/Sound/ChatSound.bytes",
-        "Databin/Client/Sound/LobbyBank.bytes",
-        "Databin/Client/Sound/LobbySound.bytes"
-      ],
-      "head": "Databin/Client/Global/HeadImage.bytes"
     },
     "14": {
       "name_skin": "Zephys Kỷ Nguyên Hổ Phách",
@@ -479,22 +398,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "16": {
-      "name_skin": "Zephys",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Zephys",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Zephys",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Zephys",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/107_Zhaoyun/107_Zhaoyun_actorinfo.bytes"
     }
   },
   "108": {
@@ -561,10 +464,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ]
     },
-    "08": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
-    },
     "09": {
       "name_skin": "Gildur Xích Long",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes",
@@ -584,10 +483,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ]
     },
-    "10": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
-    },
     "11": {
       "name_skin": "Gildur PASULOL",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes",
@@ -605,30 +500,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "12": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Gildur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/108_MoDi/108_MoDi_actorinfo.bytes"
     }
   },
   "109": {
@@ -701,10 +572,6 @@
     },
     "08": {
       "name_skin": "Veera Vũ điệu samba",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/109_DaJi/109_DaJi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Veera",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/109_DaJi/109_DaJi_actorinfo.bytes"
     },
     "10": {
@@ -807,26 +674,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "17": {
-      "name_skin": "Veera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/109_DaJi/109_DaJi_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Veera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/109_DaJi/109_DaJi_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Veera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/109_DaJi/109_DaJi_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Veera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/109_DaJi/109_DaJi_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Veera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/109_DaJi/109_DaJi_actorinfo.bytes"
     }
   },
   "110": {
@@ -834,10 +681,6 @@
     "id_name": "110_YingZheng",
     "01": {
       "name_skin": "Kahlii Cô dâu hắc ám",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Kahlii",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
     },
     "03": {
@@ -903,30 +746,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "11": {
-      "name_skin": "Kahlii",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Kahlii",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Kahlii",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Kahlii",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Kahlii",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Kahlii",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/110_YingZheng/110_YingZheng_actorinfo.bytes"
     }
   },
   "111": {
@@ -1142,10 +961,6 @@
       "name_skin": "Violet Hoa thủy tiên",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes"
     },
-    "18": {
-      "name_skin": "Violet",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes"
-    },
     "19": {
       "name_skin": "Violet Vọng nguyệt Long Cơ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes",
@@ -1193,22 +1008,6 @@
     },
     "21": {
       "name_skin": "Violet Nữ quản thú",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Violet",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Violet",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes"
-    },
-    "24": {
-      "name_skin": "Violet",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes"
-    },
-    "25": {
-      "name_skin": "Violet",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/111_SunShangXiang/111_SunShangXiang_actorinfo.bytes"
     }
   },
@@ -1315,10 +1114,6 @@
       "name_skin": "Yorn Lục nguyệt cung",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
     },
-    "10": {
-      "name_skin": "Yorn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
-    },
     "11": {
       "name_skin": "Yorn Soái ca bãi biển",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
@@ -1345,19 +1140,6 @@
         "Databin/Client/Sound/ChatSound.bytes",
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
-      ]
-    },
-    "13": {
-      "name_skin": "Yorn Giao long",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes",
-      "effect": "Ages/Prefeb_Characters/Prefab_Hero/Actor_112_Actions.pkg.bytes",
-      "aref": "AssetRefs/Hero/112_AssetRef.bytes",
-      "skillmark": "Databin/Client/Skill/skillmark.bytes",
-      "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
-      "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml",
-      "sound": [
-        "Databin/Client/Sound/BattleBank.bytes",
-        "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
     "14": {
@@ -1406,30 +1188,6 @@
     "16": {
       "name_skin": "Yorn Đại mạc kinh thương",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Yorn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Yorn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Yorn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Yorn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Yorn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Yorn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/112_GongShuBan/112_GongShuBan_actorinfo.bytes"
     }
   },
   "113": {
@@ -1439,24 +1197,12 @@
       "name_skin": "Chaugnar Ác mộng sinh hóa",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
     },
-    "02": {
-      "name_skin": "Chaugnar Quang vinh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
     "03": {
       "name_skin": "Chaugnar Quang vinh",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
     },
     "04": {
       "name_skin": "Chaugnar Quân cảnh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Chaugnar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Chaugnar",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
     },
     "07": {
@@ -1471,39 +1217,11 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Chaugnar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Chaugnar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Chaugnar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Chaugnar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Chaugnar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Chaugnar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/113_ZhuangZhou/113_ZhuangZhou_actorinfo.bytes"
     }
   },
   "114": {
     "id_hero": "114",
     "id_name": "114_Omega",
-    "01": {
-      "name_skin": "Omega Hộ vệ ba bích",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
-    },
     "02": {
       "name_skin": "Omega Người máy xanh",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
@@ -1536,30 +1254,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Omega",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Omega",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Omega",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Omega",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Omega",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Omega",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/114_Omega/114_Omega_actorinfo.bytes"
     }
   },
   "115": {
@@ -1599,10 +1293,6 @@
       "name_skin": "Jinna Kim quang thánh đồ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
     },
-    "05": {
-      "name_skin": "Jinna",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
-    },
     "06": {
       "name_skin": "Jinna Kim giác",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
@@ -1613,30 +1303,6 @@
     },
     "08": {
       "name_skin": "Jinna Mafia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Jinna",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Jinna",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Jinna",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Jinna",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Jinna",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Jinna",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/115_GaoJianLi/115_GaoJianLi_actorinfo.bytes"
     }
   },
@@ -1743,10 +1409,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "09": {
-      "name_skin": "Butterfly",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
-    },
     "10": {
       "name_skin": "Butterfly Asuna Tia Chớp",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes",
@@ -1791,10 +1453,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "12": {
-      "name_skin": "Butterfly",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
-    },
     "13": {
       "name_skin": "Butterfly Gánh anh đến cùng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes",
@@ -1838,10 +1496,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "15": {
-      "name_skin": "Butterfly",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
-    },
     "16": {
       "name_skin": "Butterfly Nữ thần Khởi nguyên",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes",
@@ -1866,10 +1520,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "17": {
-      "name_skin": "Butterfly",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
     },
     "18": {
       "name_skin": "Butterfly Tình yêu nổi loạn",
@@ -1927,18 +1577,6 @@
     "21": {
       "name_skin": "Butterfly Ninh Tần",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Butterfly",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Butterfly",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
-    },
-    "24": {
-      "name_skin": "Butterfly",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/116_JingKe/116_JingKe_actorinfo.bytes"
     }
   },
   "117": {
@@ -1946,10 +1584,6 @@
     "id_name": "117_ZhongWuYan",
     "01": {
       "name_skin": "Ormarr Cựu chiến binh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Ormarr",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
     },
     "03": {
@@ -1983,34 +1617,6 @@
     },
     "08": {
       "name_skin": "Ormarr Chuyện của nhà nông",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Ormarr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Ormarr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Ormarr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Ormarr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Ormarr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Ormarr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Ormarr",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/117_ZhongWuYan/117_ZhongWuYan_actorinfo.bytes"
     }
   },
@@ -2124,10 +1730,6 @@
       "name_skin": "Alice The Butterfly Mansion Girl",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
     },
-    "11": {
-      "name_skin": "Alice Phi hành gia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
-    },
     "12": {
       "name_skin": "Alice Eternal Sailor Chibi Moon",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes",
@@ -2145,18 +1747,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "13": {
-      "name_skin": "Alice",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Alice",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Alice",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
     },
     "16": {
       "name_skin": "Alice Xứ sở diệu kỳ",
@@ -2201,18 +1791,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "19": {
-      "name_skin": "Alice",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Alice",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Alice",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/118_SunBin/118_SunBin_actorinfo.bytes"
     }
   },
   "119": {
@@ -2280,30 +1858,6 @@
     },
     "08": {
       "name_skin": "Mganga Doombot Huỷ diệt",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/119_BianQue/119_BianQue_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Mganga",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/119_BianQue/119_BianQue_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Mganga",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/119_BianQue/119_BianQue_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Mganga",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/119_BianQue/119_BianQue_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Mganga",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/119_BianQue/119_BianQue_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Mganga",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/119_BianQue/119_BianQue_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Mganga",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/119_BianQue/119_BianQue_actorinfo.bytes"
     }
   },
@@ -2395,14 +1949,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "09": {
-      "name_skin": "Mina",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Mina",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes"
-    },
     "11": {
       "name_skin": "Mina Xích Huyết Diễm Quỷ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes",
@@ -2441,26 +1987,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "14": {
-      "name_skin": "Mina",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Mina",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Mina",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Mina",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Mina",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/120_BaiQi/120_BaiQi_actorinfo.bytes"
     }
   },
   "121": {
@@ -2530,34 +2056,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Marja",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/121_MiYue/121_MiYue_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Marja",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/121_MiYue/121_MiYue_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Marja",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/121_MiYue/121_MiYue_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Marja",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/121_MiYue/121_MiYue_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Marja",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/121_MiYue/121_MiYue_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Marja",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/121_MiYue/121_MiYue_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Marja",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/121_MiYue/121_MiYue_actorinfo.bytes"
     }
   },
   "123": {
@@ -2682,30 +2180,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "12": {
-      "name_skin": "Maloch",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/123_LvBu/123_LvBu_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Maloch",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/123_LvBu/123_LvBu_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Maloch",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/123_LvBu/123_LvBu_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Maloch",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/123_LvBu/123_LvBu_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Maloch",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/123_LvBu/123_LvBu_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Maloch",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/123_LvBu/123_LvBu_actorinfo.bytes"
     }
   },
   "124": {
@@ -2756,38 +2230,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Ignis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/124_ZhouYu/124_ZhouYu_actorinfo.bytes"
     }
   },
   "126": {
@@ -2873,35 +2315,11 @@
     "10": {
       "name_skin": "Arduin Cự thần Biển Mây",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/126_XiaHouDun/126_XiaHouDun_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Arduin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/126_XiaHouDun/126_XiaHouDun_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Arduin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/126_XiaHouDun/126_XiaHouDun_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Arduin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/126_XiaHouDun/126_XiaHouDun_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Arduin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/126_XiaHouDun/126_XiaHouDun_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Arduin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/126_XiaHouDun/126_XiaHouDun_actorinfo.bytes"
     }
   },
   "127": {
     "id_hero": "127",
     "id_name": "127_ZhenJi",
-    "01": {
-      "name_skin": "Azzen'Ka Hoàng tử cát",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
-    },
     "02": {
       "name_skin": "Azzen'Ka Linh hồn lữ khách",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
@@ -2955,30 +2373,6 @@
     },
     "08": {
       "name_skin": "Azzen'Ka Tông đồ thần miếu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Azzen'Ka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Azzen'Ka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Azzen'Ka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Azzen'Ka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Azzen'Ka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Azzen'Ka",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/127_ZhenJi/127_ZhenJi_actorinfo.bytes"
     }
   },
@@ -3089,10 +2483,6 @@
       "name_skin": "Lữ Bố Vũ điệu samba",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
     },
-    "11": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
     "12": {
       "name_skin": "Lữ Bố Cửu Thiên Lôi Thần",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes",
@@ -3112,38 +2502,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "13": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Lữ Bố",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/128_CaoCao/128_CaoCao_actorinfo.bytes"
     }
   },
   "129": {
@@ -3225,10 +2583,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "09": {
-      "name_skin": "Triệu Vân",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
-    },
     "10": {
       "name_skin": "Triệu Vân Thần tài",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes",
@@ -3241,10 +2595,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "11": {
-      "name_skin": "Triệu Vân",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
     },
     "12": {
       "name_skin": "Triệu Vân Minh Chung Long Đế",
@@ -3298,30 +2648,6 @@
     },
     "14": {
       "name_skin": "Triệu Vân Đấu Sĩ Võ Đài",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Triệu Vân",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Triệu Vân",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Triệu Vân",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Triệu Vân",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Triệu Vân",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Triệu Vân",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/129_DianWei/129_DianWei_actorinfo.bytes"
     }
   },
@@ -3479,10 +2805,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "14": {
-      "name_skin": "Airi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
-    },
     "15": {
       "name_skin": "Airi Thứ nguyên Vệ thần",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes",
@@ -3508,10 +2830,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "16": {
-      "name_skin": "Airi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
-    },
     "17": {
       "name_skin": "Airi Ninja ẩm thực",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
@@ -3531,22 +2849,6 @@
     },
     "19": {
       "name_skin": "Airi Quản lý tài năng",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Airi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Airi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Airi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Airi",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/130_GongBenWuZang/130_GongBenWuZang_actorinfo.bytes"
     }
   },
@@ -3822,22 +3124,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "20": {
-      "name_skin": "Murad",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/131_LiBai/131_LiBai_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Murad",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/131_LiBai/131_LiBai_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Murad",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/131_LiBai/131_LiBai_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Murad",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/131_LiBai/131_LiBai_actorinfo.bytes"
     }
   },
   "132": {
@@ -4030,30 +3316,6 @@
     "14": {
       "name_skin": "Hayate Đầu bếp Yakitori",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/132_MaKeBoLuo/132_MaKeBoLuo_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Hayate",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/132_MaKeBoLuo/132_MaKeBoLuo_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Hayate",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/132_MaKeBoLuo/132_MaKeBoLuo_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Hayate",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/132_MaKeBoLuo/132_MaKeBoLuo_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Hayate",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/132_MaKeBoLuo/132_MaKeBoLuo_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Hayate",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/132_MaKeBoLuo/132_MaKeBoLuo_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Hayate",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/132_MaKeBoLuo/132_MaKeBoLuo_actorinfo.bytes"
     }
   },
   "133": {
@@ -4080,10 +3342,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "03": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
     },
     "04": {
       "name_skin": "Valhein Đại công tước",
@@ -4217,10 +3475,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "15": {
-      "name_skin": "Valhein AW5",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
     "16": {
       "name_skin": "Valhein Mã Hành Vạn Lý",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes",
@@ -4240,51 +3494,11 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "17": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "24": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
-    },
-    "25": {
-      "name_skin": "Valhein",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/133_DiRenJie/133_DiRenJie_actorinfo.bytes"
     }
   },
   "134": {
     "id_hero": "134",
     "id_name": "134_TangSanZang",
-    "01": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
-    },
     "02": {
       "name_skin": "Skud Sơn tặc",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
@@ -4310,14 +3524,6 @@
       "name_skin": "Skud Mafia",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
     },
-    "06": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
-    },
     "08": {
       "name_skin": "Skud Cứu hộ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
@@ -4338,26 +3544,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "11": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Skud",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/134_TangSanZang/134_TangSanZang_actorinfo.bytes"
     }
   },
   "135": {
@@ -4365,10 +3551,6 @@
     "id_name": "135_XiangYu",
     "01": {
       "name_skin": "Thane Kẻ hủy diệt",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Thane Hiệp sĩ hoàng kim",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
     },
     "03": {
@@ -4409,42 +3591,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "07": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Thane",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/135_XiangYu/135_XiangYu_actorinfo.bytes"
     }
   },
   "136": {
@@ -4619,14 +3765,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "15": {
-      "name_skin": "Ilumia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/136_WuZeTian/136_WuZeTian_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Ilumia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/136_WuZeTian/136_WuZeTian_actorinfo.bytes"
     }
   },
   "137": {
@@ -4699,34 +3837,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "07": {
-      "name_skin": "Paine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/137_SiMaYi/137_SiMaYi_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Paine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/137_SiMaYi/137_SiMaYi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Paine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/137_SiMaYi/137_SiMaYi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Paine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/137_SiMaYi/137_SiMaYi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Paine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/137_SiMaYi/137_SiMaYi_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Paine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/137_SiMaYi/137_SiMaYi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Paine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/137_SiMaYi/137_SiMaYi_actorinfo.bytes"
     }
   },
   "139": {
@@ -4760,38 +3870,6 @@
     "05": {
       "name_skin": "Kil'Groth Hung thần biển sâu",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Kil'Groth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/139_KongFuZi/139_KongFuZi_actorinfo.bytes"
     }
   },
   "140": {
@@ -4809,60 +3887,6 @@
       "skillmark": "Databin/Client/Skill/skillmark.bytes",
       "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
       "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml"
-    },
-    "03": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes",
-      "effect": "Ages/Prefeb_Characters/Prefab_Hero/Actor_140_Actions.pkg.bytes",
-      "aref": "AssetRefs/Hero/140_AssetRef.bytes",
-      "skillmark": "Databin/Client/Skill/skillmark.bytes",
-      "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
-      "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml",
-      "sound": [
-        "Databin/Client/Sound/BattleBank.bytes",
-        "Databin/Client/Sound/HeroSound.bytes"
-      ],
-      "sound2": [
-        "Databin/Client/Sound/ChatSound.bytes",
-        "Databin/Client/Sound/LobbyBank.bytes",
-        "Databin/Client/Sound/LobbySound.bytes"
-      ]
-    },
-    "05": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Superman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/140_GuanYu/140_GuanYu_actorinfo.bytes"
     }
   },
   "141": {
@@ -5049,14 +4073,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "12": {
-      "name_skin": "Lauriel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Lauriel Vũ khúc hân hoan",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
-    },
     "14": {
       "name_skin": "Lauriel Nữ vương học đường",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes",
@@ -5137,10 +4153,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "19": {
-      "name_skin": "Lauriel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
-    },
     "20": {
       "name_skin": "Lauriel Mã Đằng Cửu Thế",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes",
@@ -5160,26 +4172,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "21": {
-      "name_skin": "Lauriel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Lauriel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Lauriel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
-    },
-    "24": {
-      "name_skin": "Lauriel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
-    },
-    "25": {
-      "name_skin": "Lauriel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/141_Diaochan/141_Diaochan_actorinfo.bytes"
     }
   },
   "142": {
@@ -5315,10 +4307,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ]
     },
-    "11": {
-      "name_skin": "Natalya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes"
-    },
     "12": {
       "name_skin": "Natalya Băng lam nữ soái",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes",
@@ -5381,30 +4369,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "15": {
-      "name_skin": "Natalya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Natalya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Natalya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Natalya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Natalya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Natalya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/142_CaiWenJi/142_CaiWenJi_actorinfo.bytes"
     }
   },
   "144": {
@@ -5479,18 +4443,6 @@
       "name_skin": "Taara Nữ chiến binh",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
     },
-    "08": {
-      "name_skin": "Taara",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Taara",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Taara Hoa hồng đỏ tươi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
-    },
     "11": {
       "name_skin": "Taara Thần chiến tranh",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
@@ -5512,26 +4464,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "13": {
-      "name_skin": "Taara",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Taara",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Taara",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Taara",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Taara",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/144_ChengYaoJin/144_ChengYaoJin_actorinfo.bytes"
     }
   },
   "146": {
@@ -5597,18 +4529,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "07": {
-      "name_skin": "Zill",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Zill",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Zill",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
-    },
     "10": {
       "name_skin": "Zill Quái xế",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
@@ -5638,18 +4558,6 @@
     "13": {
       "name_skin": "Zill Bậc Thầy Sushi",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Zill",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Zill",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Zill",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/146_HongFu/146_HongFu_actorinfo.bytes"
     }
   },
   "148": {
@@ -5678,38 +4586,6 @@
     },
     "05": {
       "name_skin": "Preyta Bù nhìn xứ Athanor",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Preyta",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Preyta",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Preyta",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Preyta",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Preyta",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Preyta",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Preyta",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Preyta",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/148_JiangZiYa/148_JiangZiYa_actorinfo.bytes"
     }
   },
@@ -5763,10 +4639,6 @@
       "name_skin": "Xeniel Thần thoại Hy Lạp",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
     },
-    "07": {
-      "name_skin": "Xeniel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
-    },
     "08": {
       "name_skin": "Xeniel Shipper bánh mỳ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
@@ -5781,30 +4653,6 @@
     },
     "11": {
       "name_skin": "Xeniel Cấm vệ",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Xeniel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Xeniel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Xeniel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Xeniel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Xeniel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Xeniel",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/149_LiuBang/149_LiuBang_actorinfo.bytes"
     }
   },
@@ -5940,14 +4788,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "10": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
-    },
     "12": {
       "name_skin": "Nakroth Killua",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes",
@@ -6056,30 +4896,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "17": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Nakroth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/150_HanXin/150_HanXin_actorinfo.bytes"
     }
   },
   "152": {
@@ -6250,14 +5066,6 @@
       "name_skin": "Điêu Thuyền Mối tình đầu",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes"
     },
-    "14": {
-      "name_skin": "Điêu Thuyền",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Điêu Thuyền",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes"
-    },
     "16": {
       "name_skin": "Điêu Thuyền Tuế Hàn Đỗ Quyên",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes",
@@ -6301,22 +5109,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "18": {
-      "name_skin": "Điêu Thuyền",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Điêu Thuyền",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Điêu Thuyền",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Điêu Thuyền",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/152_WangZhaoJun/152_WangZhaoJun_actorinfo.bytes"
     }
   },
   "153": {
@@ -6378,18 +5170,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "07": {
-      "name_skin": "Kaine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/153_LanLingWang/153_LanLingWang_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Kaine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/153_LanLingWang/153_LanLingWang_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Kaine",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/153_LanLingWang/153_LanLingWang_actorinfo.bytes"
     }
   },
   "154": {
@@ -6509,10 +5289,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "11": {
-      "name_skin": "Yena",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes"
-    },
     "12": {
       "name_skin": "Yena Huyền Cửu Thiên",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes",
@@ -6578,26 +5354,6 @@
     },
     "15": {
       "name_skin": "Yena Hoa tiêu Mộng giới",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Yena",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Yena",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Yena",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Yena",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Yena",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/154_HuaMuLan/154_HuaMuLan_actorinfo.bytes"
     }
   },
@@ -6718,42 +5474,14 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "13": {
-      "name_skin": "Aleister",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/156_ZhangLiang/156_ZhangLiang_actorinfo.bytes"
-    },
     "14": {
       "name_skin": "Aleister S - Quang vinh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/156_ZhangLiang/156_ZhangLiang_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Aleister",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/156_ZhangLiang/156_ZhangLiang_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Aleister",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/156_ZhangLiang/156_ZhangLiang_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Aleister",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/156_ZhangLiang/156_ZhangLiang_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Aleister",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/156_ZhangLiang/156_ZhangLiang_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Aleister",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/156_ZhangLiang/156_ZhangLiang_actorinfo.bytes"
     }
   },
   "157": {
     "id_hero": "157",
     "id_name": "157_BuZhiHuoWu",
-    "01": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
-    },
     "02": {
       "name_skin": "Raz Đại tù trưởng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
@@ -6898,10 +5626,6 @@
       "name_skin": "Raz Lễ hội té nước",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
     },
-    "13": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
-    },
     "14": {
       "name_skin": "Raz Khiêu chiến",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes",
@@ -6914,30 +5638,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "15": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Raz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/157_BuZhiHuoWu/157_BuZhiHuoWu_actorinfo.bytes"
     }
   },
   "159": {
@@ -7022,22 +5722,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "06": {
-      "name_skin": "Dolia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/159_Dolia/159_Dolia_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Dolia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/159_Dolia/159_Dolia_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Dolia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/159_Dolia/159_Dolia_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Dolia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/159_Dolia/159_Dolia_actorinfo.bytes"
     }
   },
   "162": {
@@ -7088,42 +5772,6 @@
     },
     "06": {
       "name_skin": "Kriknak Bọ hoàng kim",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Kriknak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Kriknak",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/162_Nakoruru/162_Nakoruru_actorinfo.bytes"
     }
   },
@@ -7273,10 +5921,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "12": {
-      "name_skin": "Ryoma",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes"
-    },
     "13": {
       "name_skin": "Ryoma Thống lãnh quỷ binh",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes",
@@ -7289,30 +5933,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "14": {
-      "name_skin": "Ryoma",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Ryoma",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Ryoma",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Ryoma",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Ryoma",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Ryoma",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/163_JuYouJing/163_JuYouJing_actorinfo.bytes"
     }
   },
   "166": {
@@ -7483,34 +6103,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "14": {
-      "name_skin": "Arthur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/166_YaSeWang/166_YaSeWang_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Arthur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/166_YaSeWang/166_YaSeWang_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Arthur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/166_YaSeWang/166_YaSeWang_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Arthur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/166_YaSeWang/166_YaSeWang_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Arthur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/166_YaSeWang/166_YaSeWang_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Arthur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/166_YaSeWang/166_YaSeWang_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Arthur",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/166_YaSeWang/166_YaSeWang_actorinfo.bytes"
     }
   },
   "167": {
@@ -7704,43 +6296,11 @@
     "13": {
       "name_skin": "Ngộ Không Đại náo văn phòng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Ngộ Không",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Ngộ Không",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Ngộ Không",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Ngộ Không",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Ngộ Không",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Ngộ Không",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Ngộ Không",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/167_WuKong/167_WuKong_actorinfo.bytes"
     }
   },
   "168": {
     "id_hero": "168",
     "id_name": "168_Niu",
-    "01": {
-      "name_skin": "Lumburr Dung nham",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
     "02": {
       "name_skin": "Lumburr Dung nham",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
@@ -7772,34 +6332,6 @@
     },
     "07": {
       "name_skin": "Lumburr Tóm được ngươi rồi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Lumburr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Lumburr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Lumburr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Lumburr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Lumburr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Lumburr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Lumburr",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/168_Niu/168_Niu_actorinfo.bytes"
     }
   },
@@ -7837,10 +6369,6 @@
     },
     "07": {
       "name_skin": "Slimz Sứ giả thiên giới",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Slimz",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
     },
     "09": {
@@ -7896,26 +6424,6 @@
     "12": {
       "name_skin": "Slimz Cam siêu quậy",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Slimz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Slimz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Slimz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Slimz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Slimz",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/169_HouYi/169_HouYi_actorinfo.bytes"
     }
   },
   "170": {
@@ -7942,44 +6450,8 @@
       "name_skin": "Moren Binh nhì",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
     },
-    "04": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
     "05": {
       "name_skin": "Moren Thợ cắt cáp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Moren",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Moren",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/170_LiuBei/170_LiuBei_actorinfo.bytes"
     }
   },
@@ -8010,10 +6482,6 @@
     },
     "04": {
       "name_skin": "Cresht Tiệc bãi biển",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Cresht",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
     },
     "06": {
@@ -8068,30 +6536,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "09": {
-      "name_skin": "Cresht",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Cresht",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Cresht",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Cresht",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Cresht",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Cresht",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/171_ZhangFei/171_ZhangFei_actorinfo.bytes"
     }
   },
   "173": {
@@ -8197,30 +6641,6 @@
     "11": {
       "name_skin": "Fennik Cáo chiêu tài",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/173_LiYuanFang/173_LiYuanFang_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Fennik",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/173_LiYuanFang/173_LiYuanFang_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Fennik",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/173_LiYuanFang/173_LiYuanFang_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Fennik",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/173_LiYuanFang/173_LiYuanFang_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Fennik",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/173_LiYuanFang/173_LiYuanFang_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Fennik",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/173_LiYuanFang/173_LiYuanFang_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Fennik",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/173_LiYuanFang/173_LiYuanFang_actorinfo.bytes"
     }
   },
   "174": {
@@ -8293,22 +6713,6 @@
     },
     "08": {
       "name_skin": "Stuart Siêu trùm phản diện",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/174_YuJi/174_YuJi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Stuart 17409",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/174_YuJi/174_YuJi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Stuart 17410",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/174_YuJi/174_YuJi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Stuart 17411",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/174_YuJi/174_YuJi_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Stuart 17412",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/174_YuJi/174_YuJi_actorinfo.bytes"
     }
   },
@@ -8402,10 +6806,6 @@
       "name_skin": "Grakk Cỗ xe tăng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes"
     },
-    "11": {
-      "name_skin": "Grakk",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes"
-    },
     "12": {
       "name_skin": "Grakk Cận vệ Mafia",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes",
@@ -8418,22 +6818,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "13": {
-      "name_skin": "Grakk",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Grakk",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Grakk",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Grakk",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes"
     },
     "17": {
       "name_skin": "Grakk Thần ẩm thực",
@@ -8483,10 +6867,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "20": {
-      "name_skin": "Grakk",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/175_ZhongKui/175_ZhongKui_actorinfo.bytes"
     }
   },
   "177": {
@@ -8540,10 +6920,6 @@
       "name_skin": "Lindis Đồng phục Shihakusho",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
     },
-    "07": {
-      "name_skin": "Lindis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
     "08": {
       "name_skin": "Lindis Đặc vụ thần thám",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes",
@@ -8559,34 +6935,6 @@
     },
     "09": {
       "name_skin": "Lindis Linh Hoa tiễn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Lindis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Lindis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Lindis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Lindis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Lindis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Lindis",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Lindis",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/177_ChengJiSiHan/177_ChengJiSiHan_actorinfo.bytes"
     }
   },
@@ -8636,38 +6984,6 @@
     },
     "09": {
       "name_skin": "Max Trà chanh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Max",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Max",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Max",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Max",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Max",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Max",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Max",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Max",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/180_NeZha/180_NeZha_actorinfo.bytes"
     }
   },
@@ -8776,30 +7092,6 @@
     "09": {
       "name_skin": "Helen Trợ lý nghệ sĩ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/184_CaiWenJi/184_CaiWenJi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Helen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/184_CaiWenJi/184_CaiWenJi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Helen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/184_CaiWenJi/184_CaiWenJi_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Helen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/184_CaiWenJi/184_CaiWenJi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Helen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/184_CaiWenJi/184_CaiWenJi_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Helen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/184_CaiWenJi/184_CaiWenJi_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Helen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/184_CaiWenJi/184_CaiWenJi_actorinfo.bytes"
     }
   },
   "186": {
@@ -8807,10 +7099,6 @@
     "id_name": "186_TaiYiZhenRen",
     "01": {
       "name_skin": "TeeMee Xiếc cung đình",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "TeeMee Mặc định",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
     },
     "03": {
@@ -8838,14 +7126,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "07": {
-      "name_skin": "TeeMee",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "TeeMee",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
     "09": {
       "name_skin": "TeeMee Lẩu nấm",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
@@ -8856,26 +7136,6 @@
     },
     "11": {
       "name_skin": "TeeMee Cổ động viên",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "TeeMee",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "TeeMee",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "TeeMee",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "TeeMee",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "TeeMee",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/186_TaiYiZhenRen/186_TaiYiZhenRen_actorinfo.bytes"
     }
   },
@@ -8954,10 +7214,6 @@
       "name_skin": "Arum Nữ hoàng gấu xám",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
     },
-    "07": {
-      "name_skin": "Arum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
-    },
     "08": {
       "name_skin": "Arum Quản lý tài năng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes",
@@ -8983,14 +7239,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "10": {
-      "name_skin": "Arum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Arum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
     },
     "12": {
       "name_skin": "Arum Thần phong Thống lĩnh",
@@ -9039,22 +7287,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "16": {
-      "name_skin": "Arum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Arum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Arum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Arum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/187_DongHuangTaiYi/187_DongHuangTaiYi_actorinfo.bytes"
     }
   },
   "189": {
@@ -9072,10 +7304,6 @@
       "name_skin": "Krizzix Nghệ sĩ đường phố",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
     },
-    "04": {
-      "name_skin": "Krizzix",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
-    },
     "05": {
       "name_skin": "Krizzix Trưởng lão",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
@@ -9091,30 +7319,6 @@
     },
     "07": {
       "name_skin": "Krizzix Mildar ẩn sĩ",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Krizzix",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Krizzix",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Krizzix",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Krizzix",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Krizzix",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Krizzix",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/189_GuiGuZi/189_GuiGuZi_actorinfo.bytes"
     }
   },
@@ -9366,30 +7570,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "17": {
-      "name_skin": "Tulen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/190_ZhuGeLiang/190_ZhuGeLiang_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Tulen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/190_ZhuGeLiang/190_ZhuGeLiang_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Tulen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/190_ZhuGeLiang/190_ZhuGeLiang_actorinfo.bytes"
-    },
-    "20": {
-      "name_skin": "Tulen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/190_ZhuGeLiang/190_ZhuGeLiang_actorinfo.bytes"
-    },
-    "21": {
-      "name_skin": "Tulen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/190_ZhuGeLiang/190_ZhuGeLiang_actorinfo.bytes"
-    },
-    "22": {
-      "name_skin": "Tulen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/190_ZhuGeLiang/190_ZhuGeLiang_actorinfo.bytes"
     }
   },
   "191": {
@@ -9422,10 +7602,6 @@
     },
     "06": {
       "name_skin": "Rouie Quang vinh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Rouie",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
     },
     "08": {
@@ -9473,30 +7649,6 @@
     },
     "10": {
       "name_skin": "Rouie Mèo hầu gái",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Rouie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Rouie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Rouie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Rouie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Rouie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Rouie",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/191_DaQiao/191_DaQiao_actorinfo.bytes"
     }
   },
@@ -9547,26 +7699,6 @@
     },
     "07": {
       "name_skin": "Celica Quái kỳ hí pháp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/192_HuangZhong/192_HuangZhong_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Celica",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/192_HuangZhong/192_HuangZhong_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Celica",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/192_HuangZhong/192_HuangZhong_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Celica",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/192_HuangZhong/192_HuangZhong_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Celica",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/192_HuangZhong/192_HuangZhong_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Celica",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/192_HuangZhong/192_HuangZhong_actorinfo.bytes"
     }
   },
@@ -9633,85 +7765,13 @@
       "name_skin": "Amily Nữ đội trưởng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
     },
-    "08": {
-      "name_skin": "Amily",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Amily",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
     "10": {
       "name_skin": "Amily Khủng long xanh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Amily",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
     },
     "12": {
       "name_skin": "Amily Thám tử trung học",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Amily",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Amily",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Amily",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Amily",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Amily",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/193_LaFeiEr/193_LaFeiEr_actorinfo.bytes"
-    }
-  },
-  "194": {
-    "id_hero": "194",
-    "id_name": "194_SuLie",
-    "01": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Wiro",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/194_SuLie/194_SuLie_actorinfo.bytes"
     }
   },
   "195": {
@@ -9762,10 +7822,6 @@
     },
     "06": {
       "name_skin": "Enzo Sát quỷ đoàn",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/195_BaiLiXuanCe/195_BaiLiXuanCe_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Enzo",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/195_BaiLiXuanCe/195_BaiLiXuanCe_actorinfo.bytes"
     },
     "08": {
@@ -9843,26 +7899,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "12": {
-      "name_skin": "Enzo",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/195_BaiLiXuanCe/195_BaiLiXuanCe_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Enzo",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/195_BaiLiXuanCe/195_BaiLiXuanCe_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Enzo",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/195_BaiLiXuanCe/195_BaiLiXuanCe_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Enzo",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/195_BaiLiXuanCe/195_BaiLiXuanCe_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Enzo",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/195_BaiLiXuanCe/195_BaiLiXuanCe_actorinfo.bytes"
     }
   },
   "196": {
@@ -9946,10 +7982,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "08": {
-      "name_skin": "Elsu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes"
-    },
     "09": {
       "name_skin": "Elsu Trấn Thiên phi hồ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes",
@@ -9974,10 +8006,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "10": {
-      "name_skin": "Elsu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes"
     },
     "11": {
       "name_skin": "Elsu Hỏa diệm Chu Tước",
@@ -10042,26 +8070,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "15": {
-      "name_skin": "Elsu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Elsu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Elsu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Elsu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Elsu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/196_Elsu/196_Elsu_actorinfo.bytes"
     }
   },
   "199": {
@@ -10169,30 +8177,6 @@
     "09": {
       "name_skin": "Eland'orr S - Quang vinh",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/199_Li/199_Li_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Eland'orr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/199_Li/199_Li_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Eland'orr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/199_Li/199_Li_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Eland'orr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/199_Li/199_Li_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Eland'orr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/199_Li/199_Li_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Eland'orr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/199_Li/199_Li_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Eland'orr",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/199_Li/199_Li_actorinfo.bytes"
     }
   },
   "206": {
@@ -10222,38 +8206,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "02": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Charlotte",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/206_XiaLuoTe/206_XiaLuoTe_actorinfo.bytes"
     }
   },
   "501": {
@@ -10352,10 +8304,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "09": {
-      "name_skin": "Tel'Annas",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/501_TelAnnas/501_TelAnnas_actorinfo.bytes"
     },
     "10": {
       "name_skin": "Tel'Annas Công chúa mộng mơ",
@@ -10524,22 +8472,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "22": {
-      "name_skin": "Tel'Annas",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/501_TelAnnas/501_TelAnnas_actorinfo.bytes"
-    },
-    "23": {
-      "name_skin": "Tel'Annas",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/501_TelAnnas/501_TelAnnas_actorinfo.bytes"
-    },
-    "24": {
-      "name_skin": "Tel'Annas",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/501_TelAnnas/501_TelAnnas_actorinfo.bytes"
-    },
-    "25": {
-      "name_skin": "Tel'Annas",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/501_TelAnnas/501_TelAnnas_actorinfo.bytes"
     }
   },
   "502": {
@@ -10613,39 +8545,11 @@
     "10": {
       "name_skin": "Astrid Tiệc bãi biển",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/502_Astrid/502_Astrid_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Astrid",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/502_Astrid/502_Astrid_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Astrid",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/502_Astrid/502_Astrid_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Astrid",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/502_Astrid/502_Astrid_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Astrid",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/502_Astrid/502_Astrid_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Astrid",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/502_Astrid/502_Astrid_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Astrid",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/502_Astrid/502_Astrid_actorinfo.bytes"
     }
   },
   "503": {
     "id_hero": "503",
     "id_name": "503_Zuka",
-    "01": {
-      "name_skin": "Zuka Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
     "02": {
       "name_skin": "Zuka Đại phú ông",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
@@ -10754,38 +8658,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "12": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Zuka",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/503_Zuka/503_Zuka_actorinfo.bytes"
     }
   },
   "504": {
@@ -10793,38 +8665,6 @@
     "id_name": "504_WonderWoman",
     "01": {
       "name_skin": "Wonder Woman Thế chiến",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Wonder Woman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Wonder Woman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Wonder Woman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Wonder Woman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Wonder Woman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Wonder Woman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Wonder Woman",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Wonder Woman",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/504_WonderWoman/504_WonderWoman_actorinfo.bytes"
     }
   },
@@ -10866,38 +8706,6 @@
     },
     "07": {
       "name_skin": "Baldum Thẩm Phán Lời Thề",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Baldum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Baldum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Baldum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Baldum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Baldum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Baldum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Baldum",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Baldum",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/505_Baldum/505_Baldum_actorinfo.bytes"
     }
   },
@@ -11008,10 +8816,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ]
     },
-    "09": {
-      "name_skin": "Omen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes"
-    },
     "10": {
       "name_skin": "Omen Huyết ảnh Tà thần",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes",
@@ -11075,30 +8879,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "14": {
-      "name_skin": "Omen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Omen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Omen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Omen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Omen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Omen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/506_DarkKnight/506_DarkKnight_actorinfo.bytes"
     }
   },
   "507": {
@@ -11112,38 +8892,6 @@
       "skillmark": "Databin/Client/Skill/skillmark.bytes",
       "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
       "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml"
-    },
-    "02": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "The Flash",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/507_Flash/507_Flash_actorinfo.bytes"
     }
   },
   "508": {
@@ -11185,10 +8933,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "04": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
     },
     "05": {
       "name_skin": "Wisp Máy phát quà",
@@ -11236,34 +8980,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "11": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Wisp",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/508_Zhadanren/508_Zhadanren_actorinfo.bytes"
     }
   },
   "509": {
@@ -11314,42 +9030,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "10": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Y'bneth",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/509_Ybneth/509_Ybneth_actorinfo.bytes"
     }
   },
   "510": {
@@ -11486,18 +9166,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "10": {
-      "name_skin": "Liliana",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Liliana",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Liliana",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes"
-    },
     "13": {
       "name_skin": "Liliana Lưu thủy Thần long",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes",
@@ -11560,22 +9228,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "16": {
-      "name_skin": "Liliana",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Liliana",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes"
-    },
-    "18": {
-      "name_skin": "Liliana",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes"
-    },
-    "19": {
-      "name_skin": "Liliana",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/510_Liliana/510_Liliana_actorinfo.bytes"
     }
   },
   "511": {
@@ -11601,14 +9253,6 @@
       "name_skin": "Ata Chiến binh hải tộc",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
     },
-    "06": {
-      "name_skin": "Ata",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Ata",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
-    },
     "08": {
       "name_skin": "Ata Gà mờ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
@@ -11619,22 +9263,6 @@
     },
     "10": {
       "name_skin": "Ata Sushi Master",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
-    },
-    "11": {
-      "name_skin": "Ata",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Ata",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Ata",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Ata",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/511_ZhuBaJie/511_ZhuBaJie_actorinfo.bytes"
     }
   },
@@ -11664,14 +9292,6 @@
     },
     "04": {
       "name_skin": "Rourke Thợ cơ khí",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/512_Rourke/512_Rourke_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Rourke",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/512_Rourke/512_Rourke_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Rourke",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/512_Rourke/512_Rourke_actorinfo.bytes"
     },
     "07": {
@@ -11824,10 +9444,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "09": {
-      "name_skin": "Zata",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/513_ShuSheng/513_ShuSheng_actorinfo.bytes"
     }
   },
   "514": {
@@ -11869,10 +9485,6 @@
     },
     "06": {
       "name_skin": "Roxie Lễ hội hoa",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/514_Roxi/514_Roxi_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Roxie",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/514_Roxi/514_Roxi_actorinfo.bytes"
     },
     "08": {
@@ -11954,10 +9566,6 @@
       "skillmark": "Databin/Client/Skill/skillmark.bytes",
       "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
       "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml"
-    },
-    "07": {
-      "name_skin": "Richter",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/515_Richter/515_Richter_actorinfo.bytes"
     },
     "08": {
       "name_skin": "Richter Cứu hộ",
@@ -12116,10 +9724,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ]
     },
-    "11": {
-      "name_skin": "Quillen",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/518_Quillen/518_Quillen_actorinfo.bytes"
-    },
     "12": {
       "name_skin": "Quillen Huyết phong",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/518_Quillen/518_Quillen_actorinfo.bytes"
@@ -12231,10 +9835,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "10": {
-      "name_skin": "Annette",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/519_Annette/519_Annette_actorinfo.bytes"
-    },
     "11": {
       "name_skin": "Annette Băng kỳ lâm",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/519_Annette/519_Annette_actorinfo.bytes"
@@ -12251,14 +9851,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "13": {
-      "name_skin": "Annette",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/519_Annette/519_Annette_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Annette",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/519_Annette/519_Annette_actorinfo.bytes"
     }
   },
   "520": {
@@ -12287,10 +9879,6 @@
     },
     "04": {
       "name_skin": "Veres Chị đại học đường",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/520_Veres/520_Veres_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Veres",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/520_Veres/520_Veres_actorinfo.bytes"
     },
     "06": {
@@ -12438,10 +10026,6 @@
     "15": {
       "name_skin": "Veres Hoa Khôi Khán Đài",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/520_Veres/520_Veres_actorinfo.bytes"
-    },
-    "16": {
-      "name_skin": "Veres",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/520_Veres/520_Veres_actorinfo.bytes"
     }
   },
   "521": {
@@ -12533,10 +10117,6 @@
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
     },
-    "09": {
-      "name_skin": "Florentino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/521_Florentino/521_Florentino_actorinfo.bytes"
-    },
     "10": {
       "name_skin": "Florentino Hisoka",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/521_Florentino/521_Florentino_actorinfo.bytes",
@@ -12592,14 +10172,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "14": {
-      "name_skin": "Florentino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/521_Florentino/521_Florentino_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Florentino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/521_Florentino/521_Florentino_actorinfo.bytes"
     }
   },
   "522": {
@@ -12664,10 +10236,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "06": {
-      "name_skin": "Errol",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/522_Errol/522_Errol_actorinfo.bytes"
-    },
     "07": {
       "name_skin": "Errol Stream đến bao giờ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/522_Errol/522_Errol_actorinfo.bytes"
@@ -12701,22 +10269,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "11": {
-      "name_skin": "Errol",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/522_Errol/522_Errol_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Errol",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/522_Errol/522_Errol_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Errol",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/522_Errol/522_Errol_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Errol",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/522_Errol/522_Errol_actorinfo.bytes"
     }
   },
   "523": {
@@ -12785,14 +10337,6 @@
     },
     "07": {
       "name_skin": "D'Arcy Bác sĩ thú y",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/523_Darcy/523_Darcy_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "D'Arcy",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/523_Darcy/523_Darcy_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "D'Arcy",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/523_Darcy/523_Darcy_actorinfo.bytes"
     }
   },
@@ -12919,10 +10463,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "09": {
-      "name_skin": "Capheny",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/524_Capheny/524_Capheny_actorinfo.bytes"
-    },
     "10": {
       "name_skin": "Capheny Tử đinh hương",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/524_Capheny/524_Capheny_actorinfo.bytes",
@@ -13008,10 +10548,6 @@
     "16": {
       "name_skin": "Capheny Hoa Linh Lan",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/524_Capheny/524_Capheny_actorinfo.bytes"
-    },
-    "17": {
-      "name_skin": "Capheny",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/524_Capheny/524_Capheny_actorinfo.bytes"
     }
   },
   "525": {
@@ -13057,10 +10593,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "09": {
-      "name_skin": "Zip",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/525_Driver/525_Driver_actorinfo.bytes"
     }
   },
   "526": {
@@ -13136,18 +10668,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "12": {
-      "name_skin": "Ishar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/526_Summoner/526_Summoner_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Ishar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/526_Summoner/526_Summoner_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Ishar",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/526_Summoner/526_Summoner_actorinfo.bytes"
     }
   },
   "527": {
@@ -13269,22 +10789,6 @@
     "11": {
       "name_skin": "Sephera Tây Vực phong tình",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/527_Sephera/527_Sephera_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Sephera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/527_Sephera/527_Sephera_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Sephera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/527_Sephera/527_Sephera_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Sephera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/527_Sephera/527_Sephera_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Sephera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/527_Sephera/527_Sephera_actorinfo.bytes"
     }
   },
   "528": {
@@ -13341,10 +10845,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "07": {
-      "name_skin": "Qi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/528_DaMo/528_DaMo_actorinfo.bytes"
-    },
     "08": {
       "name_skin": "Qi Thần phong Hiệp nữ",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/528_DaMo/528_DaMo_actorinfo.bytes",
@@ -13400,22 +10900,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "11": {
-      "name_skin": "Qi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/528_DaMo/528_DaMo_actorinfo.bytes"
-    },
-    "12": {
-      "name_skin": "Qi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/528_DaMo/528_DaMo_actorinfo.bytes"
-    },
-    "13": {
-      "name_skin": "Qi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/528_DaMo/528_DaMo_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Qi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/528_DaMo/528_DaMo_actorinfo.bytes"
     }
   },
   "529": {
@@ -13514,10 +10998,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "09": {
-      "name_skin": "Volkath",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/529_Volkath/529_Volkath_actorinfo.bytes"
     }
   },
   "530": {
@@ -13535,10 +11015,6 @@
       "name_skin": "Dirak Quý tộc Norman",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/530_Dirak/530_Dirak_actorinfo.bytes"
     },
-    "04": {
-      "name_skin": "Dirak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/530_Dirak/530_Dirak_actorinfo.bytes"
-    },
     "05": {
       "name_skin": "Dirak Ông bầu Showbiz",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/530_Dirak/530_Dirak_actorinfo.bytes",
@@ -13551,10 +11027,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "06": {
-      "name_skin": "Dirak",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/530_Dirak/530_Dirak_actorinfo.bytes"
     },
     "07": {
       "name_skin": "Dirak Đường chủ yêu giới",
@@ -13619,10 +11091,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "06": {
-      "name_skin": "Keera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/531_Keera/531_Keera_actorinfo.bytes"
-    },
     "07": {
       "name_skin": "Keera Nezuko Kamado",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/531_Keera/531_Keera_actorinfo.bytes",
@@ -13646,10 +11114,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Keera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/531_Keera/531_Keera_actorinfo.bytes"
     },
     "09": {
       "name_skin": "Keera Nghệ sĩ Graffiti",
@@ -13702,14 +11166,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "14": {
-      "name_skin": "Keera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/531_Keera/531_Keera_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Keera",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/531_Keera/531_Keera_actorinfo.bytes"
     }
   },
   "532": {
@@ -13768,14 +11224,6 @@
     },
     "07": {
       "name_skin": "Thorne Thám tử trung học",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/532_Genius/532_Genius_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Thorne",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/532_Genius/532_Genius_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Thorne",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/532_Genius/532_Genius_actorinfo.bytes"
     }
   },
@@ -13950,14 +11398,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "14": {
-      "name_skin": "Laville",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/533_HouYi/533_HouYi_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Laville",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/533_HouYi/533_HouYi_actorinfo.bytes"
     }
   },
   "534": {
@@ -13984,10 +11424,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "03": {
-      "name_skin": "Dextra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/534_Grantwish/534_Grantwish_actorinfo.bytes"
     },
     "04": {
       "name_skin": "Dextra Quý cô tuổi Dần",
@@ -14026,10 +11462,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "09": {
-      "name_skin": "Dextra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/534_Grantwish/534_Grantwish_actorinfo.bytes"
     }
   },
   "535": {
@@ -14093,19 +11525,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "05": {
-      "name_skin": "Sinestrea",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/535_Wish/535_Wish_actorinfo.bytes",
-      "effect": "Ages/Prefeb_Characters/Prefab_Hero/Actor_535_Actions.pkg.bytes",
-      "aref": "AssetRefs/Hero/535_AssetRef.bytes",
-      "skillmark": "Databin/Client/Skill/skillmark.bytes",
-      "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
-      "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml"
-    },
-    "06": {
-      "name_skin": "Sinestrea",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/535_Wish/535_Wish_actorinfo.bytes"
-    },
     "07": {
       "name_skin": "Sinestrea Đại tiểu thư",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/535_Wish/535_Wish_actorinfo.bytes"
@@ -14160,14 +11579,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "14": {
-      "name_skin": "Sinestrea",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/535_Wish/535_Wish_actorinfo.bytes"
-    },
-    "15": {
-      "name_skin": "Sinestrea",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/535_Wish/535_Wish_actorinfo.bytes"
     }
   },
   "536": {
@@ -14189,10 +11600,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "03": {
-      "name_skin": "Aoi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/536_Ninja/536_Ninja_actorinfo.bytes"
     },
     "04": {
       "name_skin": "Aoi Tiệc bãi biển",
@@ -14224,10 +11631,6 @@
         "Databin/Client/Sound/HeroSound.bytes"
       ]
     },
-    "07": {
-      "name_skin": "Aoi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/536_Ninja/536_Ninja_actorinfo.bytes"
-    },
     "08": {
       "name_skin": "Aoi Sát thủ Dạ Ưng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/536_Ninja/536_Ninja_actorinfo.bytes",
@@ -14258,10 +11661,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "10": {
-      "name_skin": "Aoi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/536_Ninja/536_Ninja_actorinfo.bytes"
     },
     "11": {
       "name_skin": "Aoi Bách thú triều Long",
@@ -14295,14 +11694,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "13": {
-      "name_skin": "Aoi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/536_Ninja/536_Ninja_actorinfo.bytes"
-    },
-    "14": {
-      "name_skin": "Aoi",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/536_Ninja/536_Ninja_actorinfo.bytes"
     }
   },
   "537": {
@@ -14543,14 +11934,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Iggy",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/538_Iggy/538_Iggy_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Iggy",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/538_Iggy/538_Iggy_actorinfo.bytes"
     }
   },
   "539": {
@@ -14611,22 +11994,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "06": {
-      "name_skin": "Lorion",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/539_Nott/539_Nott_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Lorion",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/539_Nott/539_Nott_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Lorion",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/539_Nott/539_Nott_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Lorion",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/539_Nott/539_Nott_actorinfo.bytes"
     }
   },
   "540": {
@@ -14707,14 +12074,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "08": {
-      "name_skin": "Bright",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/540_Bright/540_Bright_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Bright",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/540_Bright/540_Bright_actorinfo.bytes"
     }
   },
   "541": {
@@ -14752,22 +12111,6 @@
     },
     "05": {
       "name_skin": "Bonnie Tân Binh Pixel",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/541_Bonnie/541_Bonnie_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Bonnie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/541_Bonnie/541_Bonnie_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Bonnie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/541_Bonnie/541_Bonnie_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Bonnie",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/541_Bonnie/541_Bonnie_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Bonnie",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/541_Bonnie/541_Bonnie_actorinfo.bytes"
     }
   },
@@ -14814,10 +12157,6 @@
     },
     "06": {
       "name_skin": "Tachi Hỗn mang đao",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/542_Tachi/542_Tachi_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Tachi",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/542_Tachi/542_Tachi_actorinfo.bytes"
     },
     "08": {
@@ -14878,14 +12217,6 @@
     },
     "04": {
       "name_skin": "Aya Thủy thủ",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/543_Yao/543_Yao_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Aya",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/543_Yao/543_Yao_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Aya",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/543_Yao/543_Yao_actorinfo.bytes"
     },
     "07": {
@@ -15027,18 +12358,6 @@
     "06": {
       "name_skin": "Yan Nghệ nhân Trung Thu",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/544_Painter/544_Painter_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Yan",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/544_Painter/544_Painter_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Yan",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/544_Painter/544_Painter_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Yan",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/544_Painter/544_Painter_actorinfo.bytes"
     }
   },
   "545": {
@@ -15046,10 +12365,6 @@
     "id_name": "545_Aim",
     "01": {
       "name_skin": "Yue Tiểu công chúa",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/545_Aim/545_Aim_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Yue",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/545_Aim/545_Aim_actorinfo.bytes"
     },
     "03": {
@@ -15119,14 +12434,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "08": {
-      "name_skin": "Yue",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/545_Aim/545_Aim_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Yue",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/545_Aim/545_Aim_actorinfo.bytes"
     }
   },
   "546": {
@@ -15171,10 +12478,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "04": {
-      "name_skin": "Teeri 54604",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/546_Hecate/546_Hecate_actorinfo.bytes"
     },
     "05": {
       "name_skin": "Teeri Ốc quế ngọt ngào",
@@ -15222,10 +12525,6 @@
     },
     "08": {
       "name_skin": "Teeri Kỳ ngộ sắc màu",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/546_Hecate/546_Hecate_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Teeri",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/546_Hecate/546_Hecate_actorinfo.bytes"
     }
   },
@@ -15331,18 +12630,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "07": {
-      "name_skin": "Bijan",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/548_SunCe/548_SunCe_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Bijan",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/548_SunCe/548_SunCe_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Bijan",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/548_SunCe/548_SunCe_actorinfo.bytes"
     }
   },
   "563": {
@@ -15374,34 +12661,6 @@
     "02": {
       "name_skin": "Heino Scout Regiment",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Heino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Heino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Heino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Heino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Heino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Heino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Heino",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/563_HaiNuo/563_HaiNuo_actorinfo.bytes"
     }
   },
   "567": {
@@ -15410,19 +12669,6 @@
     "01": {
       "name_skin": "Erin Mộc tinh linh",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/567_AiLin/567_AiLin_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Erin Cực địa tinh linh",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/567_AiLin/567_AiLin_actorinfo.bytes",
-      "effect": "Ages/Prefeb_Characters/Prefab_Hero/Actor_567_Actions.pkg.bytes",
-      "aref": "AssetRefs/Hero/567_AssetRef.bytes",
-      "skillmark": "Databin/Client/Skill/skillmark.bytes",
-      "litebullet": "Databin/Client/Skill/liteBulletCfg.bytes",
-      "born": "Ages/Prefeb_Characters/Prefab_Hero/CommonActions.pkg.bytes/commonresource/Born.xml",
-      "sound": [
-        "Databin/Client/Sound/BattleBank.bytes",
-        "Databin/Client/Sound/HeroSound.bytes"
-      ]
     },
     "03": {
       "name_skin": "Erin Tình yêu cổ tích",
@@ -15476,22 +12722,6 @@
         "Databin/Client/Sound/BattleBank.bytes",
         "Databin/Client/Sound/HeroSound.bytes"
       ]
-    },
-    "06": {
-      "name_skin": "Erin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/567_AiLin/567_AiLin_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Erin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/567_AiLin/567_AiLin_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Erin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/567_AiLin/567_AiLin_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Erin",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/567_AiLin/567_AiLin_actorinfo.bytes"
     }
   },
   "568": {
@@ -15500,126 +12730,6 @@
     "01": {
       "name_skin": "Ming Thầy tướng",
       "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Ming 56802",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Ming",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Ming",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Ming",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Ming",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Ming",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Ming",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Ming",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/568_MingShiYin/568_MingShiYin_actorinfo.bytes"
-    }
-  },
-  "577": {
-    "id_hero": "577",
-    "id_name": "577_ShaoSiYuan",
-    "01": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Dyadia",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/577_ShaoSiYuan/577_ShaoSiYuan_actorinfo.bytes"
-    }
-  },
-  "582": {
-    "id_hero": "582",
-    "id_name": "582_Ciyuanfashi"
-  },
-  "584": {
-    "id_hero": "584",
-    "id_name": "584_CiYuansheshou"
-  },
-  "595": {
-    "id_hero": "595",
-    "id_name": "595_LiXin",
-    "01": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "02": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Edras",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/595_LiXin/595_LiXin_actorinfo.bytes"
     }
   },
   "596": {
@@ -15642,38 +12752,6 @@
         "Databin/Client/Sound/LobbyBank.bytes",
         "Databin/Client/Sound/LobbySound.bytes"
       ]
-    },
-    "02": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
-    },
-    "03": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Goverra",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/596_MiLaiDi/596_MiLaiDi_actorinfo.bytes"
     }
   },
   "597": {
@@ -15707,34 +12785,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "03": {
-      "name_skin": "Biron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/597_KuangTie/597_KuangTie_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Biron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/597_KuangTie/597_KuangTie_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Biron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/597_KuangTie/597_KuangTie_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Biron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/597_KuangTie/597_KuangTie_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Biron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/597_KuangTie/597_KuangTie_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Biron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/597_KuangTie/597_KuangTie_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Biron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/597_KuangTie/597_KuangTie_actorinfo.bytes"
     }
   },
   "598": {
@@ -15768,34 +12818,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "03": {
-      "name_skin": "Bolt Baron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/598_DaSiKong/598_DaSiKong_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Bolt Baron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/598_DaSiKong/598_DaSiKong_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Bolt Baron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/598_DaSiKong/598_DaSiKong_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Bolt Baron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/598_DaSiKong/598_DaSiKong_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Bolt Baron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/598_DaSiKong/598_DaSiKong_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Bolt Baron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/598_DaSiKong/598_DaSiKong_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Bolt Baron",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/598_DaSiKong/598_DaSiKong_actorinfo.bytes"
     }
   },
   "599": {
@@ -15845,34 +12867,6 @@
         "Databin/Client/Sound/LobbySound.bytes"
       ],
       "head": "Databin/Client/Global/HeadImage.bytes"
-    },
-    "03": {
-      "name_skin": "Billow",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/599_LvMeng/599_LvMeng_actorinfo.bytes"
-    },
-    "04": {
-      "name_skin": "Billow",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/599_LvMeng/599_LvMeng_actorinfo.bytes"
-    },
-    "05": {
-      "name_skin": "Billow",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/599_LvMeng/599_LvMeng_actorinfo.bytes"
-    },
-    "06": {
-      "name_skin": "Billow",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/599_LvMeng/599_LvMeng_actorinfo.bytes"
-    },
-    "07": {
-      "name_skin": "Billow",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/599_LvMeng/599_LvMeng_actorinfo.bytes"
-    },
-    "08": {
-      "name_skin": "Billow",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/599_LvMeng/599_LvMeng_actorinfo.bytes"
-    },
-    "09": {
-      "name_skin": "Billow",
-      "skin": "Prefab_Characters/Actor_105_Infos.pkg.bytes/Prefab_Hero/599_LvMeng/599_LvMeng_actorinfo.bytes"
     }
   }
 }
